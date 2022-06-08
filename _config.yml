@@ -18,7 +18,7 @@ avatar: ./images/definition-images/Ankita-das.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
   github: ankita-das.github.io
@@ -26,7 +26,7 @@ footer-links:
   linkedin: /ankita-das-2010/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: /twitter.com/Ano_myself
   stackoverflow: /users/8124017/solitaryreaper
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
