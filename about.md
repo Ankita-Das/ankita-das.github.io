@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Why try hard to set the sails against the wind? What is in the way of the wind can also be beautiful!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ankitadas.next@gmail.com](mailto:ankitadas.next@gmail.com)
